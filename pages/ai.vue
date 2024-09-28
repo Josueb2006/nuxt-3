@@ -9,23 +9,21 @@
             <label for="menu"><img src="C:\Users\CARMEN VARGAS\Desktop\jeje\reda2\img\imagen\menu.png" width="4%" alt=""></label>
     <nav class="navbar">
         <ul>
-        <li><a href="ai.vue">Inicio </a></li>
-        <li><a href="contenido.html">Contenido</a></li>
-        <li><a href="actividades.html">Actividades</a></li>
-        <li><a href="evaluacion.html">Evaluacion</a></li>
-        <li><a href="Materialcomplementario.html">Materialcomplementario</a></li>
-        <li><a href="Creditos.html">Creditos</a></li>
+        <li><a href="/">Historia </a></li>
+        <li><a href="http://localhost:3000/blockchain">Clubes</a></li>
+        <li><a href="actividades.html">Retirados</a></li>
+
 
     </ul>
     </nav>
 </div>
 <div class="header-content container">
     <div class="header-txt">
-        <h1>Futbol</h1>
+        <h1>Fútbol</h1>
         <p> 
             "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea, pero sigue avanzando hacia tu meta". Martin Luther King.
         </p>
-        <a href="#" class="btn-1">Información</a>
+        <a href="https://books.google.es/books?hl=es&lr=&id=RH7ewye6IcEC&oi=fnd&pg=PT2&dq=futbol&ots=VzGzIY16J7&sig=G9JPSFkqm6yerGVmUdNcglEwrzc#v=onepage&q=futbol&f=false" class="btn-1">Información</a>
     </div>
     
 </div>
@@ -42,7 +40,9 @@
       </p>
       <nuxt-link to="http://localhost:3000/">Volver a la página principal</nuxt-link>
     </div>
+    
           </article>
+          
           <article>
     <h1>Historia del Fútbol</h1>
     <p>
@@ -81,16 +81,24 @@
 <p>
   Así, con un reglamento de 13 normas apenas, el fútbol moderno fue promovido por la recién creada Football Association (FA). De allí también provino, aunque algunos años después, el término soccer, derivado de “association” y el sufijo –er, y surgió también la primera competición de ligas de la historia, la Football League en 1888. Su fin era recaudar los fondos suficientes para poder profesionalizar a los jugadores de la FA.
 </p>
+<img src="public/3.jpg" alt="" width="90%">
 <p>
   Hacia finales del siglo XIX y principios del XX, el fútbol a la inglesa se había extendido por toda Europa y luego a otros continentes, en parte gracias al sistema colonial europeo, y al intercambio comercial con las recientes repúblicas americanas.
 </p>
 <p>
   La primera liga de fútbol americana fue la argentina, fundada en 1891, y el primer partido internacional por fuera de Europa se disputó entre Argentina y Uruguay en 1901. En cambio, las condiciones económicas en Asia le impidieron al fútbol abandonar el ámbito meramente universitario hasta entrados los años 80 del siglo XX.
 </p>
+<p>
+  En 1904, en París, se fundó la Fédération Internationale e Football Association (FIFA), por los representantes futbolísticos de 8 distintos países: Francia, Bélgica, Dinamarca, España, Países Bajos, Suecia, Suiza y Alemania. Su objetivo era gestionar los encuentros europeos no vinculados a Gran Bretaña e Irlanda, quienes rechazaron inicialmente la existencia de un organismo futbolístico mundial.
+</p>
+<p>
+  La primera copa mundial de fútbol de la historia se jugó en 1930, que llegó a ser el mayor evento de este deporte en el globo entero. Luego surgieron a Copa Intercontinental en 1960, la Copa Libertadores sudamericana y la Liga de Campeones europea. El fútbol femenino surgió profesionalmente luego de la Primera Guerra Mundial, cuando aumentó la participación femenina en la sociedad y en el trabajo.
+</p>
 
 </article>
   </section>
     </section>
+    
   </template>
   
   <script setup>
@@ -191,36 +199,8 @@ text-transform: uppercase;
 color: #1B293A;}
 
 
-aside {
-    width: 30%;
-    float: left;
-    padding: 327px  20px;
-    background: url(img/imagen/TeoremaPitagoras.jpg);
-    background-size: cover;
-    background-position: center;
-    border-radius: 15px;
-    box-shadow: 5px 5px 5px gray;
-    margin-bottom: 20px;
-}
-
-.derecha {
-    width: 30%;
-background: rgba(107, 111, 28, 0.912);
-    float: left;
-    padding: 300px  20px;
-background: url(img/imagen/TeoremaPitagoras.jpg);
-background-size: cover;
-background-position: center;
-border-radius: 15px;
-box-shadow: 5px 5px 5px gray;
-}
-
-
 ul {text-align: left;}
 p {text-align: left;}
-
-
-
 
   h1 {
     color: #3498db;
