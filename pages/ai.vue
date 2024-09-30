@@ -30,18 +30,8 @@
     </header>
     <section class="main">
       <section class="articles">
-          <article>
-
-    <div>
-      <h1>Inteligencia Artificial (IA)</h1>
-      <p>
-        La Inteligencia Artificial es la simulación de procesos de inteligencia humana por parte de sistemas informáticos. 
-        Las aplicaciones incluyen aprendizaje automático, procesamiento del lenguaje natural, y mucho más.
-      </p>
-      <nuxt-link to="http://localhost:3000/">Volver a la página principal</nuxt-link>
-    </div>
-    
-          </article>
+<br>
+<br>
           
           <article>
     <h1>Historia del Fútbol</h1>
