@@ -39,7 +39,7 @@
       Te explicamos todo sobre la historia del fútbol, sus orígenes y variantes en diversas culturas. Además, los mejores jugadores de la historia.
     </p>
 
-    <h1>¿Cómo es la historia del fútbol?</h1>
+    <h1>Porteros</h1>
     <p>
       El fútbol es uno de los deportes más populares del mundo. Es practicado en prácticamente todos los países del mundo, los cuales se dan cita cada cuatro años para disputarse la copa mundial, y mantienen a lo largo del año sus distintas ligas regulares.
     </p>

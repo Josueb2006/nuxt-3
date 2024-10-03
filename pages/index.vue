@@ -10,8 +10,8 @@
       <nav class="navbar">
           <ul>
           <li><a href="/">Historia </a></li>
-          <li><a href="http://localhost:3000/blockchain">Clubes</a></li>
-          <li><a href="actividades.html">Retirados</a></li>
+          <li><a href="/blockchain">Clubes</a></li>
+          <li><a href="/ai">Retirados</a></li>
   
   
       </ul>

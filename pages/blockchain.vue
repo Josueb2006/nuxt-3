@@ -10,8 +10,8 @@
       <nav class="navbar">
           <ul>
           <li><a href="/">Historia </a></li>
-          <li><a href="http://localhost:3000/blockchain">Clubes</a></li>
-          <li><a href="actividades.html">Retirados</a></li>
+          <li><a href="/blockchain">Clubes</a></li>
+          <li><a href="/ai">Retirados</a></li>
   
   
       </ul>
@@ -42,57 +42,46 @@
       <h1></h1>
       <p>
         FC Barcelona (España): Conocido por su estilo de juego basado en la posesión (tiki-taka) y su famosa cantera, La Masia.
-
-
-
-
-
-
-
-
-
       </p>
-  
+  <img src="public/fc.jpg" alt="" width="80%">
       <p>
         Real Madrid (España): El club con más títulos de la Champions League, famoso por su "Galácticos".
       </p>
-  
+  <img src="public/relc.webp" alt="" width="80%">
     </article>
     <article>
     <p>
       Manchester United (Inglaterra): Uno de los clubes más grandes de la Premier League y con gran historia europea.
     </p>
+    <img src="public/manch.webp" alt="" width="80%">
     <p>
       AC Milan (Italia): Famoso por su éxito en Europa, con numerosas Copas de Europa/Champions League.
     </p>
+    <img src="public/fcm.jpg" alt="" width="80%">
   <p>
     Bayern Múnich (Alemania): Dominante en la Bundesliga y exitoso en Europa.
   </p>
+  <img src="public/bay.jpg" alt="" width="80%">
   <p>Liverpool FC (Inglaterra): Con una rica historia europea, destaca por su éxito en la Champions League.
-  
   </p>
+  <img src="public/liver.webp" alt="" width="60%">
   <p>
     Juventus (Italia): El club más exitoso de Italia, con numerosos títulos de liga.
   </p>
+  <img src="public/juven.jpg" alt="" width="50%">
   <p>
     Ajax (Países Bajos): Famoso por su cantera y su estilo de juego total (fútbol total).
   </p>
+  <img src="public/aja.avif" alt="" width="80%">
   <p>
     Boca Juniors (Argentina): Uno de los clubes más grandes de América del Sur, con gran éxito en la Copa Libertadores.
   </p>
-  <img src="public/3.jpg" alt="" width="90%">
+  <img src="public/boca.jpg" alt="" width="90%">
   <p>
     Santos FC (Brasil): El club donde Pelé brilló y que ha sido un histórico del fútbol brasileño.
   </p>
-  <p>
-    La primera liga de fútbol americana fue la argentina, fundada en 1891, y el primer partido internacional por fuera de Europa se disputó entre Argentina y Uruguay en 1901. En cambio, las condiciones económicas en Asia le impidieron al fútbol abandonar el ámbito meramente universitario hasta entrados los años 80 del siglo XX.
-  </p>
-  <p>
-    En 1904, en París, se fundó la Fédération Internationale e Football Association (FIFA), por los representantes futbolísticos de 8 distintos países: Francia, Bélgica, Dinamarca, España, Países Bajos, Suecia, Suiza y Alemania. Su objetivo era gestionar los encuentros europeos no vinculados a Gran Bretaña e Irlanda, quienes rechazaron inicialmente la existencia de un organismo futbolístico mundial.
-  </p>
-  <p>
-    La primera copa mundial de fútbol de la historia se jugó en 1930, que llegó a ser el mayor evento de este deporte en el globo entero. Luego surgieron a Copa Intercontinental en 1960, la Copa Libertadores sudamericana y la Liga de Campeones europea. El fútbol femenino surgió profesionalmente luego de la Primera Guerra Mundial, cuando aumentó la participación femenina en la sociedad y en el trabajo.
-  </p>
+  <img src="public/sfc.jpeg" alt="" width="70%">
+  
   
   </article>
     </section>
